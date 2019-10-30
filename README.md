@@ -1,2 +1,2 @@
-# ADDER-CALCULATOR
-My first
+# CALCULATOR
+My first Repository 
